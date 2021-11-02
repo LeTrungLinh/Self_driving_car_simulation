@@ -17,5 +17,4 @@ we need have anaconda to use enviroment
 - test.py: control and send speed, steering to software
 - utlis.py: preprocessing image 
 ## Result
-[![Result](https://www.youtube.com/watch?v=EBj5x94XJZk)]
-
+[![Result](https://img.youtube.com/vi/jQ8dZwTw8wQ/0.jpg)](https://www.youtube.com/watch?v=jQ8dZwTw8wQ)
